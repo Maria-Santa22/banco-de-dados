@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS avaliacoes(
  INSERT INTO usuarios.empresa_total(nome, email, telefone) VALUES('Jorge Cardoso', 'jorginho@gmail.com', '(19) 9920-7966');
  INSERT INTO usuarios.empresa_total(nome, email, telefone) VALUES('Daniel da Costa', 'costinha@gmail.com', '(18) 9425-9567');
  INSERT INTO usuarios.empresa_total(nome, email, telefone) VALUES('Jhon Aragão', 'jhonzinho@gmail.com', '(67) 9833-3230');
- INSERT INTO usuarios.empresa_total(nome, email, telefone) VALUES ('Carla Ferreira', 'carlinha@gmail.com', '(69) 9925-5566')
+ INSERT INTO usuarios.empresa_total(nome, email, telefone) VALUES ('Carla Ferreira', 'carlinha@gmail.com', '(69) 9925-5566');
  
 
  
